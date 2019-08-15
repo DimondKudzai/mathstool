@@ -1,0 +1,46 @@
+.links{
+	text-align: center;
+	font-family: Times;
+   font-size: 30px;
+}
+header{
+	text-align: center;
+	color: red;
+}
+.name{
+	font-size: 30px;
+	font-family: Times;
+	color: blue;
+	text-align: center;
+}
+#app{
+   font-size: px;
+	text-align: left;
+	font-family: Times;
+}
+body{
+	background-color: black;
+}
+.text{
+	color: yellow;
+   font-size: 30px;
+}
+.last{
+	font-family: Times;
+	color: white;
+	text-align: center;
+  font-size: 25px;
+}
+.mail{
+	border-radius: 50%;
+}
+#routes{
+width: 100%;
+ font-size: px;
+margin-top: 300px;
+position: fixed;
+}
+hr{
+background-color: blue;
+height: 10px;
+}
