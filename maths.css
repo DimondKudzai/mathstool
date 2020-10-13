@@ -44,6 +44,7 @@ hr{
 background-color: grey;
 height: 10px;
 }
-.put{
-text-shadow:3px 3px 3px purple;
+input{
+box-shadow:3px 3px 3px purple;
+border-radius:15px;
 }
