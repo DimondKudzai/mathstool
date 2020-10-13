@@ -8,7 +8,7 @@ header{
 	color: black;
 }
 .name{
-	font-size: 30px;
+	font-size: 38px;
 	font-family: serif;
 	color: black;
 	text-align: center;
@@ -22,14 +22,14 @@ body{
 	background-color: white;
 }
 .text{
-	color: black;
+   color: white;
    font-size: 30px;
 }
 .last{
-	font-family: Times;
+	font-family: serif;
 	color: white;
 	text-align: center;
-  font-size: 25px;
+  font-size: 28px;
 }
 .mail{
 	border-radius: 50%;
