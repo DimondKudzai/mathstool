@@ -9,20 +9,20 @@ header{
 }
 .name{
 	font-size: 30px;
-	font-family: Times;
+	font-family: serif;
 	color: black;
 	text-align: center;
 }
 #app{
-   font-size: px;
-	text-align: left;
+   font-size: 28px;
+	text-align: centre;
 	font-family: serif;
 }
 body{
 	background-color: white;
 }
 .text{
-	color: yellow;
+	color: black;
    font-size: 30px;
 }
 .last{
