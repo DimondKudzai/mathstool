@@ -10,16 +10,16 @@ header{
 .name{
 	font-size: 30px;
 	font-family: Times;
-	color: blue;
+	color: black;
 	text-align: center;
 }
 #app{
    font-size: px;
 	text-align: left;
-	font-family: Times;
+	font-family: serif;
 }
 body{
-	background-color: black;
+	background-color: white;
 }
 .text{
 	color: yellow;
