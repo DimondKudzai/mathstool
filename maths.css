@@ -1,0 +1,58 @@
+.links{
+	text-align: center;
+	font-family: serif;
+   font-size: 30px;
+}
+input[type=radio] { 
+border: px; width: ; height: ; }
+
+header{
+	text-align: center;
+	color: black;
+}
+.name{
+	font-size: 38px;
+	font-family: serif;
+	color: black;
+	text-align: center;
+}
+#app{
+   font-size: 28px;
+	text-align: centre;
+	font-family: serif;
+}
+body{
+	background-color: white;
+}
+.text{
+   color: black;
+   font-size: 30px;
+}
+.last{
+  font-family: serif;
+	color: black;
+	text-align: center;
+  font-size: 28px;
+ z-index: 6;
+}
+.new{
+width: 40%;
+font-size: 40px;
+}
+.mail{
+	border-radius: 50%;
+}
+#routes{
+width: 100%;
+;font-size: px;
+margin-bottom: px;
+position: ;
+}
+hr{
+backg-round-color: grey;
+height: 10px;
+}
+input{
+box-shadow:3px 3px 3px purple;
+border-radius:15px;
+}
